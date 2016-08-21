@@ -6,7 +6,7 @@ Features
  * See com.mc.criteria in src/test/java for different scenarios covered
  * In particular, TestCriteriaForCFRouterAPI
 
-* Spring Boot 1.4 (JsonJacksonSpringBootSliceTests)
+* TODO: Spring Boot 1.4 (JsonJacksonSpringBootSliceTests)
  * @JsonComponent using JsonComponentModule -> TrivialResponseJsonComponent.java
  * JsonObjectDeserializer.getRequiredNode ->  tbc
 
