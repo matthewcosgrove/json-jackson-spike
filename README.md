@@ -1,13 +1,14 @@
 Features
 
-* Spring Boot 1.4
- * @JsonComponent using JsonComponentModule -> MyTrivialResponseJsonComponent.java
- * JsonObjectDeserializer.getRequiredNode ->  
+* Pre Spring Boot 1.4 (JsonJacksonSpringBootPre14Tests)
+ * See com.mc.criteria in src/test/java for different scenarios covered
 
-* Traditional
+* Spring Boot 1.4 (JsonJacksonSpringBootSliceTests)
+ * @JsonComponent using JsonComponentModule -> TrivialResponseJsonComponent.java
+ * JsonObjectDeserializer.getRequiredNode ->  tbc
 
 * TODO
-** @JsonView
+ * @JsonView
 
 References
 
