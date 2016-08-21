@@ -2,7 +2,7 @@ Idea is to spike on non-standard JSON structures to parse them with Jackson with
 
 Features
 
-* Pre Spring Boot 1.4 (JsonJacksonSpringBootPre14Tests)
+* Spring Boot Pre-1.4 (JsonJacksonSpringBootPre14Tests)
  * See com.mc.criteria in src/test/java for different scenarios covered
  * In particular, TestCriteriaForCFRouterAPI
 
