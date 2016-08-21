@@ -1,7 +1,10 @@
+Idea is to spike on non-standard JSON structures to parse them with Jackson within a Spring Boot app. This is done with a leaning towards Cloud Foundry API responses (initially just the Router API which exposes routing tables).
+
 Features
 
 * Pre Spring Boot 1.4 (JsonJacksonSpringBootPre14Tests)
  * See com.mc.criteria in src/test/java for different scenarios covered
+ * In particular, TestCriteriaForCFRouterAPI
 
 * Spring Boot 1.4 (JsonJacksonSpringBootSliceTests)
  * @JsonComponent using JsonComponentModule -> TrivialResponseJsonComponent.java
