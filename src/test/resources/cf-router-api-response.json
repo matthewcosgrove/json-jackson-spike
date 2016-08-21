@@ -1,0 +1,288 @@
+{
+  "*.login.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.15:8080",
+      "ttl": 0
+    }
+  ],
+  "*.uaa.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.15:8080",
+      "ttl": 0
+    }
+  ],
+  "api-gateway.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.18:62040",
+      "ttl": 0
+    }
+  ],
+  "api.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.12:9022",
+      "ttl": 0
+    }
+  ],
+  "app-usage.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.18:60002",
+      "ttl": 0
+    }
+  ],
+  "apps-manager-js.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.18:60014",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60005",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.19:60704",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60020",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60004",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.19:62712",
+      "ttl": 0
+    }
+  ],
+  "apps.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.18:60016",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60000",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60015",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60004",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60010",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60022",
+      "ttl": 0
+    }
+  ],
+  "apps.myhost.cf-app.com/2": [
+    {
+      "address": "10.0.0.18:60014",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60005",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.19:60704",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60020",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60004",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.19:62712",
+      "ttl": 0
+    }
+  ],
+  "autoscale.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.18:60000",
+      "ttl": 0
+    }
+  ],
+  "chaos-lemur.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.19:62532",
+      "ttl": 0
+    }
+  ],
+  "config-1575d67a-1f7b-41af-ad2c-6e0609d2c319.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.17:60028",
+      "ttl": 0
+    }
+  ],
+  "console.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.18:60016",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60000",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60015",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60004",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60010",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60022",
+      "ttl": 0
+    }
+  ],
+  "console.myhost.cf-app.com/2": [
+    {
+      "address": "10.0.0.18:60014",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60005",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.19:60704",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60020",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60004",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.19:62712",
+      "ttl": 0
+    }
+  ],
+  "cst.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.19:60018",
+      "ttl": 0
+    }
+  ],
+  "doppler.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.21:8081",
+      "ttl": 0
+    }
+  ],
+  "greeting-config-gamogenetic-sheatfish.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.17:60011",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.18:60008",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.17:60022",
+      "ttl": 0
+    }
+  ],
+  "loggregator.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.21:8080",
+      "ttl": 0
+    }
+  ],
+  "login.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.15:8080",
+      "ttl": 0
+    }
+  ],
+  "notifications-ui.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.17:60024",
+      "ttl": 0
+    }
+  ],
+  "p-mysql.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.71:80",
+      "ttl": 0
+    },
+    {
+      "address": "10.0.0.72:80",
+      "ttl": 0
+    }
+  ],
+  "pivotal-rabbitmq-broker.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.57:4567",
+      "ttl": 0
+    }
+  ],
+  "pivotal-rabbitmq.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.56:15672",
+      "ttl": 0
+    }
+  ],
+  "proxy-0-p-mysql.internal.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.10:80",
+      "ttl": 0
+    }
+  ],
+  "proxy-0.p-mysql.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.69:80",
+      "ttl": 0
+    }
+  ],
+  "proxy-1.p-mysql.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.70:80",
+      "ttl": 0
+    }
+  ],
+  "redis-broker.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.88:80",
+      "ttl": 0
+    }
+  ],
+  "spring-cloud-broker-worker.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.19:60008",
+      "ttl": 0
+    }
+  ],
+  "spring-cloud-broker.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.19:60006",
+      "ttl": 0
+    }
+  ],
+  "uaa.myhost.cf-app.com": [
+    {
+      "address": "10.0.0.15:8080",
+      "ttl": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+	"users": 
+	{
+		"1234": 
+		{
+			"firstname": "Joe",
+			"lastname": "Smith",
+			"jobs": 
+			[
+				{
+					"id": "abc",
+					"deeplyNestedField": "deeplyNestedValue"
+				},
+
+				{
+					"id": "def",
+					"location": "factory"
+				}
+			]
+		},
+
+		"9876": 
+		{
+			"firstname": "Bob",
+			"lastname": "Anderson"
+		}
+	}
+}
